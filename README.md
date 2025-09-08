@@ -7,7 +7,7 @@ This small project consists of using the most common programming logic we have: 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Pythonl</b> 
+- <b>Python</b> 
 - <b>VScode</b>
 
 <h2>Environments Used </h2>
